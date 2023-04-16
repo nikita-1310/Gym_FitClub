@@ -3,6 +3,7 @@ import Header from '../Header/Header';
 import './Hero.css';
 import hero_image from '../../assets/hero_image.png';
 import Heart from '../../assets/heart.png';
+
 import hero_image_back from '../../assets/hero_image_back.png';
 import Calories from '../../assets/calories.png';
 import {motion} from 'framer-motion'
