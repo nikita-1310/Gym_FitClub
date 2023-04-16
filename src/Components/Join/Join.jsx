@@ -1,6 +1,7 @@
 import React, { useRef } from 'react'
 import './Join.css'
 import emailjs from '@emailjs/browser'
+
 const Join = () => {
     const form = useRef();
     const sendEmail = (e)=>{
