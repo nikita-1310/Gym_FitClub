@@ -6,8 +6,6 @@ import Plan from './Components/Plans/Plan';
 import Programs from './Components/Programs/Programs';
 import Reasons from './Components/Reasons/Reasons';
 import Testimonials from './Components/Testimonials/Testimonials';
-
-
 function App() {
   return (
     <>
