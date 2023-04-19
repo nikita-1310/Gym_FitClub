@@ -20,14 +20,14 @@
 </ul>
 
 
-![This is an Image](./Image/pic1.jpeg)
-
-![This is an Image](./Image/pic2.jpeg)
-
-![This is an Image](./Image/pic3.jpeg)
-
-![This is an Image](./Image/pic4.jpeg)
+![This is an Image](./Image/pic6.jpeg)
 
 ![This is an Image](./Image/pic5.jpeg)
 
-![This is an Image](./Image/pic6.jpeg)
+![This is an Image](./Image/pic4.jpeg)
+
+![This is an Image](./Image/pic3.jpeg)
+
+![This is an Image](./Image/pic2.jpeg)
+
+![This is an Image](./Image/pic1.jpeg)
