@@ -31,10 +31,14 @@
 
 ![This is an Image](./Image/pic4.jpeg)
 
-## This is the way we can send email
+## Testimonials
 
 ![This is an Image](./Image/pic3.jpeg)
 
+## This is the way we can send email
+
 ![This is an Image](./Image/pic2.jpeg)
+
+## We can receive user's emailid on gmail
 
 ![This is an Image](./Image/pic1.jpeg)
