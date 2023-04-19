@@ -19,12 +19,19 @@
 <li>Responsive Web Design</li>
 </ul>
 
+## This is Home Section
 
 ![This is an Image](./Image/pic6.jpeg)
 
+## This is a program Section
+
 ![This is an Image](./Image/pic5.jpeg)
 
+## This is a plans section
+
 ![This is an Image](./Image/pic4.jpeg)
+
+## This is the way we can send email
 
 ![This is an Image](./Image/pic3.jpeg)
 
