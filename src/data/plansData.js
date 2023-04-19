@@ -56,4 +56,5 @@ export const plansData = [
       "Free Fitness Merchandises",
     ],
   },
+  
 ];

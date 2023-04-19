@@ -8,7 +8,6 @@ const Header = () => {
   const mobile = window.innerWidth<=768 ?true:false;
   const [menuOpened, setMenuOpened] = useState(false)
   return (
-    
 
     <div className="header">
         <img src={Logo} alt="" className='logo' />
